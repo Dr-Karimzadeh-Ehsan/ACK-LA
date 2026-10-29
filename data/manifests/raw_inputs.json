@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "day": "Day1",
+      "path": "data/raw/Day1_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "ceb90acf9053a7cff65fabb7bf48aa26087f09df693cd9e6388f8efbac619fbd",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day1_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983712/files/Day%201-3.zip/content",
+      "original_source_member": "Day 1-3/ISM-outdoor_433MHz.iq"
+    },
+    {
+      "day": "Day2",
+      "path": "data/raw/Day2_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "b6ead6b57d8be877659d780f339133c7c286e4ba277bb14ed877dea11ea7f91a",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day2_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983712/files/Day2.zip/content",
+      "original_source_member": "2026-6-3/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day3",
+      "path": "data/raw/Day3_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "e5aa4f8c0dd3c72e93a1b3314b66d6779e58f5860dbaa242ea3e13fe5fffc618",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day3_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983675/files/Day3.zip/content",
+      "original_source_member": "Day3/ISM-outIdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day4",
+      "path": "data/raw/Day4_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "820e69c6181b2a13113bb68c754c36948c4c65266ef672d3a6600e550934b96e",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day4_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983675/files/Day4.zip/content",
+      "original_source_member": "Day4/ISM433-INIdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day5",
+      "path": "data/raw/Day5_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "3a2afe71700149b40cdd8a5ccc9d745df2385a31fac6dc22511a84ea14a4f789",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day5_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983360/files/Day5.zip/content",
+      "original_source_member": "Day5/LORA433outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day7",
+      "path": "data/raw/Day7_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "e792ab774be7685540855644dc95698fab5da018889457f5f05b85053d5617b1",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day7_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22983360/files/Day7-2.zip/content",
+      "original_source_member": "Day7-2/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day8",
+      "path": "data/raw/Day8_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "fbf7e119166fafe698e7dbe007754cc84905f32855c75cb08b59bdff0ca73cfe",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day8_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22963559/files/Day8.zip/content",
+      "original_source_member": "Day8/ISMLORA-indoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day9",
+      "path": "data/raw/Day9_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "5aacbfda5667dcfac670430fc543245db32adf72866f56516a2a9f310b3d7191",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day9_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/22963559/files/Day9-1.zip/content",
+      "original_source_member": "Day9-1/Day9-1/ISMLora-Outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day11",
+      "path": "data/raw/Day11_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "6d92937f2a2840c379b968ec8facd8318136ff1ea0e628a849001bba58f5f2f8",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day11_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day11-3.zip/content",
+      "original_source_member": "Day11-3/ISM-INdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day13",
+      "path": "data/raw/Day13_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "07490e7c1e13c72f9454442120c964d2afa4cbed63d030af69bf5ef74cce6b4f",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day13_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day13.zip/content",
+      "original_source_member": "Day13/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day14",
+      "path": "data/raw/Day14_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "11baffa032a72bd4978790bf4c09ef95f445fd733569b6e7e754897219d899e1",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day14_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day14.zip/content",
+      "original_source_member": "Day14/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day15",
+      "path": "data/raw/Day15_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "79053e0ee6673f8c39e8d6d104532039d164889675427cabbbb85b09a927b890",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day15_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day15.zip/content",
+      "original_source_member": "Day15/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day16",
+      "path": "data/raw/Day16_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "24ec9aeae781405eb3b84a4f96b748eabf491a42b3f48724432e9c031402056b",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day16_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day16.zip/content",
+      "original_source_member": "Day16/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day17",
+      "path": "data/raw/Day17_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "47115c15d99b29493574e8dafab7f6ba12e9b6076bc9f1d214f29473febda79f",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day17_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day17.zip/content",
+      "original_source_member": "Day17/ISM-INdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day18",
+      "path": "data/raw/Day18_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "18c0dbac90915599d6d276c771579df67ee04d706dcfcee3e725f0e3546656ce",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day18_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day18.zip/content",
+      "original_source_member": "Day18/ISM-outdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day19",
+      "path": "data/raw/Day19_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "86ec7775a3092a262122626e923c5768d7e2f88a379c0ee58f2103362ee804a2",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day19_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day19.zip/content",
+      "original_source_member": "Day19/ISM-outIdoor_433.92e6MHz.iq"
+    },
+    {
+      "day": "Day20",
+      "path": "data/raw/Day20_433.92MHz_36s.cf32",
+      "bytes": 589824000,
+      "sha256": "499d6605f5d09b7281b09e931d926dcdb41c53b0f21131d52d890bde2bc492a5",
+      "original_path": "u_clada_crn/data/raw/iraq/prefixes/Day20_433.92MHz_36s.cf32",
+      "original_source_url": "https://zenodo.org/api/records/23027285/files/Day20.zip/content",
+      "original_source_member": "Day20/ISM-INdoor_433.92e6MHz.iq"
+    }
+  ],
+  "note": "Original frozen metadata retains its historical absolute paths; use this mapping for the relocated raw inputs."
+}

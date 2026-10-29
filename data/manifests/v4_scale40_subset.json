@@ -1,0 +1,135 @@
+{
+  "role": "Fixed three-development-recording descriptive M40 compute-budget subset",
+  "not_seventeen_recording_confirmation": true,
+  "records": [
+    {
+      "day": "Day1",
+      "cluster_id": "Day1",
+      "trace_path": "data/processed/Day1_433.92MHz_13to36s_center9_trainDC_power_margin6_global_lower_quantile.npz",
+      "trace_file_sha256": "11f01009bfceb589ee72fcdc89103728097a201ecfbe79b7a941cdc172015160",
+      "source_prefix_sha256": "ceb90acf9053a7cff65fabb7bf48aa26087f09df693cd9e6388f8efbac619fbd",
+      "recording_date": "2026-06-02",
+      "primary_inclusion_eligible": true,
+      "train_dynamic": true,
+      "train_busy_fraction": [
+        0.07505438723712836,
+        0.0,
+        0.0,
+        0.05830311820159536,
+        0.03752719361856418,
+        0.1371283538796229,
+        0.01889050036258158,
+        0.36928934010152287,
+        0.03886874546773024
+      ],
+      "train_state_changes": [
+        262,
+        0,
+        0,
+        396,
+        274,
+        152,
+        150,
+        631,
+        966
+      ],
+      "simultaneous_channels": 9,
+      "slot_seconds": 0.0005,
+      "threshold_margin_db": 6,
+      "threshold_method": "global_lower_quantile",
+      "recording_metadata_bytes_match": true,
+      "retained_source_interval_seconds": [
+        13.0,
+        36.0
+      ],
+      "first_v2_test_time_reused": false,
+      "trace_metadata_sha256": "eb111722060295749953b6819f8c9f89568d60b81ba42431490f2a4dff0e9b0d"
+    },
+    {
+      "day": "Day2",
+      "cluster_id": "Day2",
+      "trace_path": "data/processed/Day2_433.92MHz_13to36s_center9_trainDC_power_margin6_global_lower_quantile.npz",
+      "trace_file_sha256": "7dc3aa2951d29a86d78c0ac8bd393150b5766ab2ab5cbee859c7adaa95be3cc9",
+      "source_prefix_sha256": "b6ead6b57d8be877659d780f339133c7c286e4ba277bb14ed877dea11ea7f91a",
+      "recording_date": "2026-06-03",
+      "primary_inclusion_eligible": true,
+      "train_dynamic": false,
+      "train_busy_fraction": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.000580130529369108,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "train_state_changes": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "simultaneous_channels": 9,
+      "slot_seconds": 0.0005,
+      "threshold_margin_db": 6,
+      "threshold_method": "global_lower_quantile",
+      "recording_metadata_bytes_match": true,
+      "retained_source_interval_seconds": [
+        13.0,
+        36.0
+      ],
+      "first_v2_test_time_reused": false,
+      "trace_metadata_sha256": "d130ee99f97ca61ac76946266c722bda6a17c1197f2e48cb2a31fc0ecf216874"
+    },
+    {
+      "day": "Day3",
+      "cluster_id": "Day3",
+      "trace_path": "data/processed/Day3_433.92MHz_13to36s_center9_trainDC_power_margin6_global_lower_quantile.npz",
+      "trace_file_sha256": "325b5676b12f621e0ad261329bc81755bb73f81b225d1ba23d2e564c9b43d2c6",
+      "source_prefix_sha256": "e5aa4f8c0dd3c72e93a1b3314b66d6779e58f5860dbaa242ea3e13fe5fffc618",
+      "recording_date": "2026-06-05",
+      "primary_inclusion_eligible": true,
+      "train_dynamic": true,
+      "train_busy_fraction": [
+        0.020558375634517765,
+        0.0,
+        0.0,
+        0.0,
+        0.000580130529369108,
+        0.0,
+        0.0,
+        0.0,
+        0.029296591733139955
+      ],
+      "train_state_changes": [
+        24,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      "simultaneous_channels": 9,
+      "slot_seconds": 0.0005,
+      "threshold_margin_db": 6,
+      "threshold_method": "global_lower_quantile",
+      "recording_metadata_bytes_match": true,
+      "retained_source_interval_seconds": [
+        13.0,
+        36.0
+      ],
+      "first_v2_test_time_reused": false,
+      "trace_metadata_sha256": "579ed73721b70a7388252e5b1def31bdcbcf0347cc7f97e709b4530e78a9b366"
+    }
+  ]
+}

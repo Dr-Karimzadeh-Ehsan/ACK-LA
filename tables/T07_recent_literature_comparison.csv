@@ -1,0 +1,7 @@
+paper,year,method,DOI,comparison,relation
+Sakakibara,2025,Adaptive-transmission ALOHA-Q,10.5121/ijcnc.2025.17101,Numerical: channel-domain adapter,Published Q/probability updates and Table 2 parameters; frame-slot choices mapped to RF channels.
+Atadet et al.,2025,Hierarchical discrete pursuit LA,10.3390/fi17120555,Method comparison,Hierarchical channel pursuit; ACK-LA learns channel and access simplexes in a measured-replay packet environment.
+Bai et al.,2025,Attention-based multi-agent DRL,10.3390/s25072025,Method comparison,Neural representation; ACK-LA uses probability-vector updates from local sensing and ACK feedback.
+Tondwalkar and Kwasinski,2025,Distributed uncoordinated deep Q-learning,10.1109/ACCESS.2025.3534657,Method comparison,"Distinct deep-Q assumptions; the common-environment DQN here is a specified baseline, not its reproduction."
+Wu et al.,2026,PPODSA,10.1016/j.comnet.2025.111885,Method comparison,Decentralized policy-gradient DSA; useful contemporary comparison of policy representation and information requirements.
+Giri and Majumder,2023,Multi-agent LSTM-DRQN,10.1016/j.phycom.2023.102054,Method comparison,Recurrent neural action values; ACK-LA retains channel/access LA as its complete learned selector.
