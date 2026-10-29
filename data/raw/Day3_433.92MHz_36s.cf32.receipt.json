@@ -1,0 +1,182 @@
+{
+  "source_url": "https://zenodo.org/api/records/22983675/files/Day3.zip/content",
+  "source_archive_bytes": 24599595785,
+  "member": "Day3/ISM-outIdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 8834261008,
+  "member_compressed_bytes": 1461216858,
+  "member_official_crc32": 2885598536,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "e5aa4f8c0dd3c72e93a1b3314b66d6779e58f5860dbaa242ea3e13fe5fffc618",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 1295.5469807570007,
+  "http_requests": [
+    {
+      "start": 24599464713,
+      "end_exclusive": 24599595785,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 13.938265524000599,
+      "sha256": "3225123ab8c670bd9ec10e6102f5a20895c5976da397ba9a3d4c0125af3a9368"
+    },
+    {
+      "start": 17795070035,
+      "end_exclusive": 17803458643,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 112.07176133200119,
+      "sha256": "a896dcbcafc30659a2883b2bcb717ec2ad1b81e645cb325356160b8718789aa6"
+    },
+    {
+      "start": 17803458643,
+      "end_exclusive": 17811847251,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 83.67652654999983,
+      "sha256": "745f77cefb5a2f3ac8c02cb5edb9306d0c8734f25eedb71229629fe28695682e"
+    },
+    {
+      "start": 17811847251,
+      "end_exclusive": 17820235859,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 140.11680753699875,
+      "sha256": "165ab3d4dee970bff624669a03c56dbe46d0debfb4df52f0e996a414465106e4"
+    },
+    {
+      "start": 17820235859,
+      "end_exclusive": 17828624467,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 150.71044022000024,
+      "sha256": "5f5c574851720bb14990c4a3ea72aa7b5e80130c621455755d9fb73c489ebe97"
+    },
+    {
+      "start": 17828624467,
+      "end_exclusive": 17837013075,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 105.40291228299975,
+      "sha256": "35ce89317f59da38d80256c3a4a4fc860d9af4d944766adee4ace64ac30c209a"
+    },
+    {
+      "start": 17837013075,
+      "end_exclusive": 17845401683,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 111.72500224400028,
+      "sha256": "6a3e54760301a44e7a018162839ad55fd4350da2f808e978f39617cbacc0a12d"
+    },
+    {
+      "start": 17845401683,
+      "end_exclusive": 17853790291,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 256.06505297900003,
+      "sha256": "30d305e3d5f9e232ab6fe76a956e4159b24deb1a57cd96d7ae41d9d41526540e"
+    },
+    {
+      "start": 17853790291,
+      "end_exclusive": 17862178899,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 66.41725068100277,
+      "sha256": "f3c4eed5e23c6160d593a35f0b0baddcce24f10f31792e3490d55ba09e7de5b1"
+    },
+    {
+      "start": 17862178899,
+      "end_exclusive": 17870567507,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 68.87270899099894,
+      "sha256": "10d52364e4b4ccd2224d55512d3263bb108ce184549440a7926487ebc8c46bb4"
+    },
+    {
+      "start": 17870567507,
+      "end_exclusive": 17878956115,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 62.61919785200007,
+      "sha256": "1a13215190caac1ffc5b5c8112c396c8fac36bb94060665d22298bc235627fa7"
+    },
+    {
+      "start": 17878956115,
+      "end_exclusive": 17887344723,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 68.14933642499818,
+      "sha256": "adb40d16d06c0f61b1792da1cd9d92b446da7233b626c97a42ec32b98091690b"
+    },
+    {
+      "start": 17887344723,
+      "end_exclusive": 17895733331,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 59.815168260000064,
+      "sha256": "fca129e4368179e0d0c40148b4c757a61206353dbb6d83a088b2786624ab3b79"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day3",
+      "File_Name": "ISM-outIdoor_433.92e6MHz.iq",
+      "Filename_Note": null,
+      "Recording_Date": "2026-06-05",
+      "Estimated_Start_Time": "23:09:00",
+      "File_Modified_Time": "23:18",
+      "Duration_seconds": 539.2005009765625,
+      "Duration_minutes": 8.986675016276042,
+      "Session": "Night",
+      "City": null,
+      "Country": null,
+      "Location_Context": "Baghdad, Iraq",
+      "Environment": "Outdoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": null,
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": "False",
+      "Frequency_Correction_ppm": 0.0,
+      "DC_Offset_Mode": 0.0,
+      "IQ_Balance_Mode": 0.0,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Preserved Windows File Explorer Date modified",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from preserved timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day3_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 22983675,
+      "archive": "Day3.zip",
+      "bytes": 24599595785,
+      "official_checksum": "md5:f752058851b4ce94684e668d1f9e3ca0",
+      "url": "https://zenodo.org/api/records/22983675/files/Day3.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day3/ISM-outIdoor_433.92e6MHz.iq",
+      "raw_bytes": 8834261008,
+      "compressed_bytes": 1461216858,
+      "compression": 8,
+      "crc32": 2885598536,
+      "header_offset": 17795070035
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "source_url": "https://zenodo.org/api/records/22983712/files/Day%201-3.zip/content",
+  "source_archive_bytes": 4084194735,
+  "member": "Day 1-3/ISM-outdoor_433MHz.iq",
+  "member_raw_bytes": 14709441192,
+  "member_compressed_bytes": 2076053439,
+  "member_official_crc32": 1523481924,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "ceb90acf9053a7cff65fabb7bf48aa26087f09df693cd9e6388f8efbac619fbd",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 1772.4211355539992,
+  "http_requests": [
+    {
+      "start": 4084063663,
+      "end_exclusive": 4084194735,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 24.76609510200069,
+      "sha256": "05700159369c8c003d788af79d9ca413281db8233ca813da3381ca0a0dc31ff3"
+    },
+    {
+      "start": 2005277884,
+      "end_exclusive": 2013666492,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 69.70582700100022,
+      "sha256": "334fe61a48d6fd8c8d649b150ec2d033361e567c26f6d2d098f3b4cb4e04b7fa"
+    },
+    {
+      "start": 2013666492,
+      "end_exclusive": 2022055100,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 59.08330765199935,
+      "sha256": "680bf422543ae796e5fe02f8ecf552ae953cf560d4045dea4f6e064ab30be50c"
+    },
+    {
+      "start": 2022055100,
+      "end_exclusive": 2030443708,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 35.00980288500068,
+      "sha256": "bef2ccfd46c325bc70fe8eccc061f7ef880f725f6ffa4d19713122ffe806a79d"
+    },
+    {
+      "start": 2030443708,
+      "end_exclusive": 2038832316,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 154.07039543700012,
+      "sha256": "1625a00fd37160b414e21a76174a38dc88b34cb32563588831cb52dc46421363"
+    },
+    {
+      "start": 2038832316,
+      "end_exclusive": 2047220924,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 179.36867282300045,
+      "sha256": "f72a028bd6c688eb1be1601ff123ba7b7e4cbecc7354d3ab19c172856aa5bc56"
+    },
+    {
+      "start": 2047220924,
+      "end_exclusive": 2055609532,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 229.38795214099991,
+      "sha256": "864310e5d45cadd9b6cfe85227f0f7b75690031e29b41b69e11b1f9bc5c06ca3"
+    },
+    {
+      "start": 2055609532,
+      "end_exclusive": 2063998140,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 259.6170980400002,
+      "sha256": "96ae7ab1be6b29362de5810958db2b327adabaaf9444837dde7ff36ac6b36e37"
+    },
+    {
+      "start": 2063998140,
+      "end_exclusive": 2072386748,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 233.39356130600208,
+      "sha256": "0bd0c3531c459cb537392fbb0a1e2ba07e40d3854ab7deb30d14e0435d195ad6"
+    },
+    {
+      "start": 2072386748,
+      "end_exclusive": 2080775356,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 226.66651876400283,
+      "sha256": "b162838511c02bdfef6fd0019c6f9c31b46ec68b73092adb5a520bf00559564a"
+    },
+    {
+      "start": 2080775356,
+      "end_exclusive": 2089163964,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 194.2006976699995,
+      "sha256": "d01592782d36bb2608311292a65edc16b9e764de9ac05e7c3f5f98a2c98d2fee"
+    },
+    {
+      "start": 2089163964,
+      "end_exclusive": 2097552572,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 122.61280365900166,
+      "sha256": "e9ae39caa5e629d7340513f399a5da3961c3d531d81c94e6d579687099ed537f"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day1",
+      "File_Name": "ISM-outdoor_433MHz.iq",
+      "Filename_Note": "Original filename uses 433 MHz; documented center frequency is 433.92 MHz. Raw IQ filename preserved unchanged.",
+      "Recording_Date": "2026-06-02",
+      "Estimated_Start_Time": "20:15:02",
+      "File_Modified_Time": "20:30",
+      "Duration_seconds": 897.7930415039062,
+      "Duration_minutes": 14.963217358398436,
+      "Session": "Evening",
+      "City": null,
+      "Country": null,
+      "Location_Context": null,
+      "Environment": "Outdoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": "Telescopic antenna",
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": null,
+      "Frequency_Correction_ppm": null,
+      "DC_Offset_Mode": null,
+      "IQ_Balance_Mode": null,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Preserved file-system Date Modified",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from preserved timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": "Day1 raw IQ data are distributed across multiple archive/subfolder parts. The parts belong to the same acquisition day. Recording start time was estimated by subtracting the IQ-file duration from the preserved file-system Date Modified timestamp. Raw IQ measurements were not altered.",
+      "Metadata_Source_File": "Day1_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 22983712,
+      "archive": "Day 1-3.zip",
+      "bytes": 4084194735,
+      "official_checksum": "md5:35169c390b40511c8ba791344661df95",
+      "url": "https://zenodo.org/api/records/22983712/files/Day%201-3.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day 1-3/ISM-outdoor_433MHz.iq",
+      "raw_bytes": 14709441192,
+      "compressed_bytes": 2076053439,
+      "compression": 8,
+      "crc32": 1523481924,
+      "header_offset": 2005277884
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

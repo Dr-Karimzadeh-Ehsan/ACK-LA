@@ -1,0 +1,166 @@
+{
+  "source_url": "https://zenodo.org/api/records/23027285/files/Day18.zip/content",
+  "source_archive_bytes": 18834980642,
+  "member": "Day18/ISM-outdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 7203735728,
+  "member_compressed_bytes": 984771551,
+  "member_official_crc32": 2206773045,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "18c0dbac90915599d6d276c771579df67ee04d706dcfcee3e725f0e3546656ce",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 507.31706578800186,
+  "http_requests": [
+    {
+      "start": 18834849570,
+      "end_exclusive": 18834980642,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 23.63184541300143,
+      "sha256": "ad8872d4d2b29b1a1c4d3d2ebc1604c2caa8f822b8a2349c9de252f50035a9eb"
+    },
+    {
+      "start": 13162106690,
+      "end_exclusive": 13170495298,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 65.15696076600034,
+      "sha256": "f2052b788e8b1b81ad88092b54c626a3378482a65a2865bf47ee81aa74157550"
+    },
+    {
+      "start": 13170495298,
+      "end_exclusive": 13178883906,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 235.9894670420017,
+      "sha256": "7ba037c011297c86be6489108aecebd7d935f796c4ea1116f478001d97c6728b"
+    },
+    {
+      "start": 13178883906,
+      "end_exclusive": 13187272514,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 55.176308684000105,
+      "sha256": "8dee4395feeb127fe5f80a31f9c0c5e70a7ec0e36d644e2c602f71056a092a3e"
+    },
+    {
+      "start": 13187272514,
+      "end_exclusive": 13195661122,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 15.455018739001389,
+      "sha256": "1811db8c0e4de5baa6f5d5aab339296e3f70958a94d89ef1871e94c4089c167a"
+    },
+    {
+      "start": 13195661122,
+      "end_exclusive": 13204049730,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 10.000015642999642,
+      "sha256": "72c5b9c837f77ed4b99f00674a3be3eb882ff80fe1e924334c765dac6a75731c"
+    },
+    {
+      "start": 13204049730,
+      "end_exclusive": 13212438338,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 19.797638341002312,
+      "sha256": "e1298b838ccd777c10b60e9a0ef9b2414201b2f6285f883623a239671a16eb4f"
+    },
+    {
+      "start": 13212438338,
+      "end_exclusive": 13220826946,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 21.192929575998278,
+      "sha256": "9a3d640937c9bfe06a23e2c92ad0667f426cd68aee6f4f40f9f328e69ec649e2"
+    },
+    {
+      "start": 13220826946,
+      "end_exclusive": 13229215554,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 21.998841981003352,
+      "sha256": "a5b9f2353f305ba4889ee975840a29e6d61ce092853247611c29245af5a13c4c"
+    },
+    {
+      "start": 13229215554,
+      "end_exclusive": 13237604162,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 22.37814614799936,
+      "sha256": "01b526a22f5644616ef1a9d40bce54f2b250c8c4c745a2c2bfaf3a2f19f48f63"
+    },
+    {
+      "start": 13237604162,
+      "end_exclusive": 13245992770,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 29.21676467999714,
+      "sha256": "700fee328d5a439108f70083809523d3cf30feed5b0c78f55cdc165c083fd804"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day18",
+      "File_Name": "ISM-outdoor_433.92e6MHz.iq",
+      "Filename_Note": "Original filename preserved. Measurement environment documented as Outdoor.",
+      "Recording_Date": "2026-08-22",
+      "Estimated_Start_Time": "04:46:40",
+      "File_Modified_Time": "04:54",
+      "Duration_seconds": 439.6811357421875,
+      "Duration_minutes": 7.328018929036459,
+      "Session": "Night",
+      "City": null,
+      "Country": null,
+      "Location_Context": "Baghdad, Iraq",
+      "Environment": "Outdoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": null,
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": "Manual",
+      "Frequency_Correction_ppm": 0.0,
+      "DC_Offset_Mode": 0.0,
+      "IQ_Balance_Mode": 0.0,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Date Modified displayed in source archive/folder screenshot",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from displayed file timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day18_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 23027285,
+      "archive": "Day18.zip",
+      "bytes": 18834980642,
+      "official_checksum": "md5:1909a56045ee4add70ce4a7e589f93ea",
+      "url": "https://zenodo.org/api/records/23027285/files/Day18.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day18/ISM-outdoor_433.92e6MHz.iq",
+      "raw_bytes": 7203735728,
+      "compressed_bytes": 984771551,
+      "compression": 8,
+      "crc32": 2206773045,
+      "header_offset": 13162106690
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "source_url": "https://zenodo.org/api/records/22963559/files/Day8.zip/content",
+  "source_archive_bytes": 15568876412,
+  "member": "Day8/ISMLORA-indoor_433.92e6MHz.iq",
+  "member_raw_bytes": 4696592384,
+  "member_compressed_bytes": 713927228,
+  "member_official_crc32": 897765749,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "fbf7e119166fafe698e7dbe007754cc84905f32855c75cb08b59bdff0ca73cfe",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 555.0295661979981,
+  "http_requests": [
+    {
+      "start": 15568745340,
+      "end_exclusive": 15568876412,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 1.947202750001452,
+      "sha256": "6acd3c8c21acf2983bbfeb02886815a90cee8d3a1dfed5a8fb36072cbb3fe508"
+    },
+    {
+      "start": 10781912106,
+      "end_exclusive": 10790300714,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 14.984852072997455,
+      "sha256": "9028951b516ddce775f3c66c4cc9711fe69161912d9071ed0e169d97e532d3f2"
+    },
+    {
+      "start": 10790300714,
+      "end_exclusive": 10798689322,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 10.83282208500168,
+      "sha256": "14a0c02815b9eb6ea618bfd1c90036cd6db355f912948d2efa5631694789e408"
+    },
+    {
+      "start": 10798689322,
+      "end_exclusive": 10807077930,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 82.80186566400153,
+      "sha256": "81241a3d6c78e9d7cd11794e972464a9abbe432203b68ef286ea33e32c55bd04"
+    },
+    {
+      "start": 10807077930,
+      "end_exclusive": 10815466538,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 56.73942733199874,
+      "sha256": "750aa0867b201cbc7841f5ffa45838ecb54f27219ba9843427fe383f41bfd91c"
+    },
+    {
+      "start": 10815466538,
+      "end_exclusive": 10823855146,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 51.2769386100008,
+      "sha256": "7bf5b5e82a8aac2e0d02e876851f3eb7398301cd1a3dfd223606fe077db1ce14"
+    },
+    {
+      "start": 10823855146,
+      "end_exclusive": 10832243754,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 50.38593109299836,
+      "sha256": "01d19d61a2558f0093537dec8d92b5d2c58d416c408cbe76e2b46d973155a730"
+    },
+    {
+      "start": 10832243754,
+      "end_exclusive": 10840632362,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 38.75461889199869,
+      "sha256": "7404757d91d8b3f7742a33179a5e2dc88296f0c2e8c255d7dc6804a8397c0610"
+    },
+    {
+      "start": 10840632362,
+      "end_exclusive": 10849020970,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 39.37308332400062,
+      "sha256": "6d33c7425e5b9cdcca76aea50f0233b2c7ebf76b8e2eff541dca82c6ac7786a4"
+    },
+    {
+      "start": 10849020970,
+      "end_exclusive": 10857409578,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 27.30902915900151,
+      "sha256": "68f796eb10a24759efade63ee90fbfc7ec94e0f4d2b37ac1922de3b8b43743ee"
+    },
+    {
+      "start": 10857409578,
+      "end_exclusive": 10865798186,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 34.953201497999544,
+      "sha256": "c9246130b41a67b9623c3a442ac49353b1057070c650819f3670056a5d4d79c1"
+    },
+    {
+      "start": 10865798186,
+      "end_exclusive": 10874186794,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 31.230333626001084,
+      "sha256": "484480b7ed9f8c7b02bb2f489050e175a79665c4d106f8b83afd67c890628049"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day8",
+      "File_Name": "ISMLORA-indoor_433.92e6MHz.iq",
+      "Filename_Note": null,
+      "Recording_Date": "2026-07-10",
+      "Estimated_Start_Time": "00:46:13",
+      "File_Modified_Time": "00:51",
+      "Duration_seconds": 286.65725,
+      "Duration_minutes": 4.777620833333333,
+      "Session": "Night",
+      "City": null,
+      "Country": null,
+      "Location_Context": null,
+      "Environment": "Indoor",
+      "Elevation_Context": "Elevated (9th floor)",
+      "Antenna_Description": null,
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": null,
+      "Frequency_Correction_ppm": null,
+      "DC_Offset_Mode": null,
+      "IQ_Balance_Mode": null,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Preserved file-system Date Modified timestamp",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from preserved timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day8_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 22963559,
+      "archive": "Day8.zip",
+      "bytes": 15568876412,
+      "official_checksum": "md5:db0f5c5f45688969597cc8cb80f5646b",
+      "url": "https://zenodo.org/api/records/22963559/files/Day8.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day8/ISMLORA-indoor_433.92e6MHz.iq",
+      "raw_bytes": 4696592384,
+      "compressed_bytes": 713927228,
+      "compression": 8,
+      "crc32": 897765749,
+      "header_offset": 10781912106
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

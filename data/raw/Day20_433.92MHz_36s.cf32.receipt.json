@@ -1,0 +1,174 @@
+{
+  "source_url": "https://zenodo.org/api/records/23027285/files/Day20.zip/content",
+  "source_archive_bytes": 19403337891,
+  "member": "Day20/ISM-INdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 6315185352,
+  "member_compressed_bytes": 887563685,
+  "member_official_crc32": 1179556239,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "499d6605f5d09b7281b09e931d926dcdb41c53b0f21131d52d890bde2bc492a5",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 1006.5379578460015,
+  "http_requests": [
+    {
+      "start": 19403206819,
+      "end_exclusive": 19403337891,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 5.6395658389992604,
+      "sha256": "866494f3f74c418b107e985bde4c79ebbebc0bd2109d9e8a46bf1952d8a2f5d3"
+    },
+    {
+      "start": 13155917742,
+      "end_exclusive": 13164306350,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 87.4484441750028,
+      "sha256": "483a626f9e8107fce8f93ab857fd215bf8bb0803be29b79ed76068ce72ec5d0b"
+    },
+    {
+      "start": 13164306350,
+      "end_exclusive": 13172694958,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 86.84671610300211,
+      "sha256": "c74f1f89e0e364c1c9a355048ace937dbea254b6e6dda84b778433330264e3fb"
+    },
+    {
+      "start": 13172694958,
+      "end_exclusive": 13181083566,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 64.76632442200207,
+      "sha256": "50969e222b0f98b7738731c0e6b2b002467199d31e5a9ab717f5b6e9591dd9fc"
+    },
+    {
+      "start": 13181083566,
+      "end_exclusive": 13189472174,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 84.06616021800073,
+      "sha256": "3d74998724be6ed895074f81c7f8d8d99664581ab767624faf5f80fe2836cd87"
+    },
+    {
+      "start": 13189472174,
+      "end_exclusive": 13197860782,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 63.60290859599991,
+      "sha256": "9a04f051842287b248758b268e0ab27841a922666ee9b400f9c3ee7bdd905d86"
+    },
+    {
+      "start": 13197860782,
+      "end_exclusive": 13206249390,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 73.7790642789987,
+      "sha256": "3fb417d9e23e35d436a1b377a94f7561bb6a786cf5e896671fc38ce5189e11bb"
+    },
+    {
+      "start": 13206249390,
+      "end_exclusive": 13214637998,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 138.41234893900037,
+      "sha256": "3c0ab63042fc79a1df06dd386da54bbe184f7635ca8769ac8ad78b5d4f07c0b2"
+    },
+    {
+      "start": 13214637998,
+      "end_exclusive": 13223026606,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 57.94867150999926,
+      "sha256": "8218eb2c9fd9f8bd5c57b9a152c4e494ca815ccde9ded74bfcb159efc778ecde"
+    },
+    {
+      "start": 13223026606,
+      "end_exclusive": 13231415214,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 51.85280281000087,
+      "sha256": "b31f387467bf85e1bc5fda5d6225e0752752c4455f4468282c6736b755014b94"
+    },
+    {
+      "start": 13231415214,
+      "end_exclusive": 13239803822,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 23.33729569500065,
+      "sha256": "e3ef98933d5a130efba74f7c2a7be6f89446cdecc2d0dbafa754cd7b6c1c1844"
+    },
+    {
+      "start": 13239803822,
+      "end_exclusive": 13248192430,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 21.45958925499872,
+      "sha256": "a0044b46c157b7f6de8a7660e71bf070605b355dfa27c04ae826211efbf89981"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day20",
+      "File_Name": "ISM-INdoor_433.92e6MHz.iq",
+      "Filename_Note": "Original filename preserved. The filename contains the 'INdoor' capitalization variant; documented measurement environment is Indoor.",
+      "Recording_Date": "2026-08-26",
+      "Estimated_Start_Time": "12:59:34",
+      "File_Modified_Time": "13:06",
+      "Duration_seconds": 385.4483247070313,
+      "Duration_minutes": 6.424138745117188,
+      "Session": "Afternoon",
+      "City": null,
+      "Country": null,
+      "Location_Context": "Baghdad, Iraq",
+      "Environment": "Indoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": null,
+      "Antenna_Placement": "Indoor near a window",
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": "Manual",
+      "Frequency_Correction_ppm": 0.0,
+      "DC_Offset_Mode": 0.0,
+      "IQ_Balance_Mode": 0.0,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Date Modified displayed in source archive/folder screenshot",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from displayed file timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day20_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 23027285,
+      "archive": "Day20.zip",
+      "bytes": 19403337891,
+      "official_checksum": "md5:c817b9fe83489fd9a8e7d91006cbed50",
+      "url": "https://zenodo.org/api/records/23027285/files/Day20.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day20/ISM-INdoor_433.92e6MHz.iq",
+      "raw_bytes": 6315185352,
+      "compressed_bytes": 887563685,
+      "compression": 8,
+      "crc32": 1179556239,
+      "header_offset": 13155917742
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "source_url": "https://zenodo.org/api/records/23027285/files/Day19.zip/content",
+  "source_archive_bytes": 20061585083,
+  "member": "Day19/ISM-outIdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 8395960040,
+  "member_compressed_bytes": 1275237356,
+  "member_official_crc32": 3709545203,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "86ec7775a3092a262122626e923c5768d7e2f88a379c0ee58f2103362ee804a2",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 893.1394437570016,
+  "http_requests": [
+    {
+      "start": 20061454011,
+      "end_exclusive": 20061585083,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 18.919200775999343,
+      "sha256": "7172743fd71e8377db0149a86b554d8d5f17ef9c7eb327d33290fd26245d16ce"
+    },
+    {
+      "start": 5093788245,
+      "end_exclusive": 5102176853,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 57.20733459300027,
+      "sha256": "92f412925e878e1d1cb0d774fadd91e0ec0a22dddae4d9d0aa0fde2f7168cca4"
+    },
+    {
+      "start": 5102176853,
+      "end_exclusive": 5110565461,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 54.18808979200185,
+      "sha256": "07a135027f6d8e7b87357a36c789b5bb28b91ecf58c617ff5662c775d600dbcc"
+    },
+    {
+      "start": 5110565461,
+      "end_exclusive": 5118954069,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 62.123077150001336,
+      "sha256": "654661e1ca3cb409094337bd8f927b437aa25099b6429b0a03196b92225c6388"
+    },
+    {
+      "start": 5118954069,
+      "end_exclusive": 5127342677,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 93.14726011499806,
+      "sha256": "84bbe8f5c005aede1b1c543e4c872741973d43f8bf671d06cb27b0368a12aa67"
+    },
+    {
+      "start": 5127342677,
+      "end_exclusive": 5135731285,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 69.44785314800174,
+      "sha256": "725be7f81b00fe233ab08fea7094f05acc4a85b8167e411053284ee3785de734"
+    },
+    {
+      "start": 5135731285,
+      "end_exclusive": 5144119893,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 70.58957357299732,
+      "sha256": "4fb5f1d625cfe75ff1ed3fdf585b1f2d279f2cdc2b28bf8e9904327d8a1337e7"
+    },
+    {
+      "start": 5144119893,
+      "end_exclusive": 5152508501,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 100.23801383300088,
+      "sha256": "8ecf960df1d03da33d4f43ae1cbf3f06a7a456c066d973791cf0aa2a13291773"
+    },
+    {
+      "start": 5152508501,
+      "end_exclusive": 5160897109,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 74.45402005999858,
+      "sha256": "7ec1fa8a3fc7bfdcd63c155c93246214f2c766c87dfbf2cecc7bd208b66b0847"
+    },
+    {
+      "start": 5160897109,
+      "end_exclusive": 5169285717,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 53.315702331001376,
+      "sha256": "fa75f1cf5a8c35e69e7c9dab37185779d00eade97d78502c8ec8784040132a03"
+    },
+    {
+      "start": 5169285717,
+      "end_exclusive": 5177674325,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 29.611298002000694,
+      "sha256": "4d742c9d71121b3b58b4e425b78709e47d7d820b846b09d963b7572aa6002548"
+    },
+    {
+      "start": 5177674325,
+      "end_exclusive": 5186062933,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 56.06126033599867,
+      "sha256": "a7a4e20d843e981a4c0bfdce1604a0e97e64728f8e58aeb0d42623770ba995f0"
+    },
+    {
+      "start": 5186062933,
+      "end_exclusive": 5194451541,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 96.93267145900245,
+      "sha256": "4854f604434ca04683075a153a6d322213a24a17a8d90faf7ae4ddc37dcdfac1"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day19",
+      "File_Name": "ISM-outIdoor_433.92e6MHz.iq",
+      "Filename_Note": "Filename contains the spelling variant 'outIdoor'. The documented measurement environment is Outdoor. The original filename is preserved for traceability.",
+      "Recording_Date": "2026-06-04",
+      "Estimated_Start_Time": "20:26:41",
+      "File_Modified_Time": "20:35:14",
+      "Duration_seconds": 512.4487329101562,
+      "Duration_minutes": 8.54081221516927,
+      "Session": "Evening",
+      "City": "Baghdad",
+      "Country": "Iraq",
+      "Location_Context": null,
+      "Environment": "Outdoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": "Telescopic rod antenna",
+      "Antenna_Placement": "Outdoor measurement configuration",
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": "Fixed",
+      "Frequency_Correction_ppm": 0.0,
+      "DC_Offset_Mode": 0.0,
+      "IQ_Balance_Mode": 0.0,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "File-system timestamp observed in Day19 source files",
+      "Timing_Precision": "Second",
+      "Timing_Status": "Timestamp available; start time derived from IQ duration",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": "Raw complex IQ recording. Post-acquisition QC did not modify the original IQ samples.",
+      "Metadata_Source_File": "Day19_Master_Metadata_FINAL_CORRECTED_DATES.csv"
+    },
+    "archive": {
+      "record": 23027285,
+      "archive": "Day19.zip",
+      "bytes": 20061585083,
+      "official_checksum": "md5:a6853b08b52e86e059c9ff20285a261a",
+      "url": "https://zenodo.org/api/records/23027285/files/Day19.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day19/ISM-outIdoor_433.92e6MHz.iq",
+      "raw_bytes": 8395960040,
+      "compressed_bytes": 1275237356,
+      "compression": 8,
+      "crc32": 3709545203,
+      "header_offset": 5093788245
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

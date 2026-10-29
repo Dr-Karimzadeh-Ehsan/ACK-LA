@@ -1,0 +1,190 @@
+{
+  "source_url": "https://zenodo.org/api/records/22963559/files/Day9-1.zip/content",
+  "source_archive_bytes": 4558936779,
+  "member": "Day9-1/Day9-1/ISMLora-Outdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 3989390688,
+  "member_compressed_bytes": 681999502,
+  "member_official_crc32": 2720128890,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "5aacbfda5667dcfac670430fc543245db32adf72866f56516a2a9f310b3d7191",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 578.3431713319987,
+  "http_requests": [
+    {
+      "start": 4558805707,
+      "end_exclusive": 4558936779,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 25.532055253999715,
+      "sha256": "8160988803c12de33d8cda37848b984af1064bd7d1666978b88eb77fbbde8b79"
+    },
+    {
+      "start": 145,
+      "end_exclusive": 8388753,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 88.81604936899748,
+      "sha256": "c39885d529468f1bb029407228d6f594c0debc6928065219e8169b287caaf6d8"
+    },
+    {
+      "start": 8388753,
+      "end_exclusive": 16777361,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 30.084570614999393,
+      "sha256": "d58e80a633989f55dbd8592426c9d4812a3ae8974c7d44b4ff176dd30e819201"
+    },
+    {
+      "start": 16777361,
+      "end_exclusive": 25165969,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 14.363794661996508,
+      "sha256": "b78f71331e2241af18d08bedd7bd3185e000d3434f18259cca2526eb29342de3"
+    },
+    {
+      "start": 25165969,
+      "end_exclusive": 33554577,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 26.44220669999777,
+      "sha256": "2008fad82ffe901576d2a100357272cabeede8d5811ce00cf60a9d8abdb94564"
+    },
+    {
+      "start": 33554577,
+      "end_exclusive": 41943185,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 33.81404012599887,
+      "sha256": "d37ceb50ad38e408f0150d92949d5c8c011d24726bee69e0f3fad5d8f4c6baca"
+    },
+    {
+      "start": 41943185,
+      "end_exclusive": 50331793,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 53.734963414997765,
+      "sha256": "2019f2ba7ff2917a09fe9a57f7c19dbdf6fe6e049d60dcdf2c3b0fbf07607744"
+    },
+    {
+      "start": 50331793,
+      "end_exclusive": 58720401,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 55.12881208199906,
+      "sha256": "6e65c2e010142c576d71fd7e5b2d2f6eb9060ca4bb5f47542fa2a6901325b284"
+    },
+    {
+      "start": 58720401,
+      "end_exclusive": 67109009,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 63.03466658700199,
+      "sha256": "9ef16ef57c30706b2e00e04440791ba6ab53438d012d05b90ce56c59cfd2d694"
+    },
+    {
+      "start": 67109009,
+      "end_exclusive": 75497617,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 45.91565856200032,
+      "sha256": "666451fbf388c969cc3df616559a49cc77ccec788412f0d7ece6a7d3cd888685"
+    },
+    {
+      "start": 75497617,
+      "end_exclusive": 83886225,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 30.179979732998618,
+      "sha256": "9b08840caddb46149612838a4408eac627f95efde55262d031ea845e63b1bc2e"
+    },
+    {
+      "start": 83886225,
+      "end_exclusive": 92274833,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 34.98546938199797,
+      "sha256": "e500fa29ff57c7693a6464bcc893d0e716b0cd731cc656b16cfb0c2349daca99"
+    },
+    {
+      "start": 92274833,
+      "end_exclusive": 100663441,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 39.10874206800145,
+      "sha256": "b14c7561d9c308e698d8c290e0c91f9574de71e0c9f1f7d188086d0a94948734"
+    },
+    {
+      "start": 100663441,
+      "end_exclusive": 109052049,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 52.532073366000986,
+      "sha256": "d9ab5e3c384d1e8becb0acb862ac2e9823a4ce1bb5551884b7c8b96d47568d40"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day9",
+      "File_Name": "ISMLora-Outdoor_433.92e6MHz.iq",
+      "Filename_Note": null,
+      "Recording_Date": "2026-07-11",
+      "Estimated_Start_Time": "09:16:56",
+      "File_Modified_Time": "09:21",
+      "Duration_seconds": 243.49308398437503,
+      "Duration_minutes": 4.05821806640625,
+      "Session": "Morning",
+      "City": null,
+      "Country": null,
+      "Location_Context": null,
+      "Environment": "Outdoor",
+      "Elevation_Context": "Non-elevated",
+      "Antenna_Description": "Telescopic antenna",
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": null,
+      "Frequency_Correction_ppm": null,
+      "DC_Offset_Mode": null,
+      "IQ_Balance_Mode": null,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Preserved archive Date Modified shown in screenshot",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from preserved timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day9_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 22963559,
+      "archive": "Day9-1.zip",
+      "bytes": 4558936779,
+      "official_checksum": "md5:c2c814d19c7eeae4c080b0decaa3e322",
+      "url": "https://zenodo.org/api/records/22963559/files/Day9-1.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day9-1/Day9-1/ISMLora-Outdoor_433.92e6MHz.iq",
+      "raw_bytes": 3989390688,
+      "compressed_bytes": 681999502,
+      "compression": 8,
+      "crc32": 2720128890,
+      "header_offset": 145
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}

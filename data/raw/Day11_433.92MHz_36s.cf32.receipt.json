@@ -1,0 +1,198 @@
+{
+  "source_url": "https://zenodo.org/api/records/23027285/files/Day11-3.zip/content",
+  "source_archive_bytes": 3223265271,
+  "member": "Day11-3/ISM-INdoor_433.92e6MHz.iq",
+  "member_raw_bytes": 4180705192,
+  "member_compressed_bytes": 801558614,
+  "member_official_crc32": 691317457,
+  "member_full_crc_checked": false,
+  "archive_md5_checked": false,
+  "prefix_bytes": 589824000,
+  "prefix_sha256": "6d92937f2a2840c379b968ec8facd8318136ff1ea0e628a849001bba58f5f2f8",
+  "contiguous_sample_prefix": true,
+  "prefix_offset_samples": 0,
+  "requested_sample_count": 73728000,
+  "dtype": "<c8",
+  "seconds": 440.754270266003,
+  "http_requests": [
+    {
+      "start": 3223134199,
+      "end_exclusive": 3223265271,
+      "status": 206,
+      "bytes": 131072,
+      "seconds": 43.60641652599952,
+      "sha256": "bd595e2c62247e33046b501f7de2fa4a86f07ca2124c7f0a231503c45be57109"
+    },
+    {
+      "start": 1557967970,
+      "end_exclusive": 1566356578,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 31.414876953000203,
+      "sha256": "ea6654e4fc78ad242fa4c3e7cd17dd3cd7044b5f8bef8618a4fceec98b7972a8"
+    },
+    {
+      "start": 1566356578,
+      "end_exclusive": 1574745186,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 22.734005318998243,
+      "sha256": "5594b6d2449c5fcc8bae4397c75fd18d006d826eb76b7b538753359ff4203634"
+    },
+    {
+      "start": 1574745186,
+      "end_exclusive": 1583133794,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 10.339898433001508,
+      "sha256": "f61a1e89e963c9a9a7e0655cbb1baea1d5bb7c1eb2ab07b4183a74b7f80f201b"
+    },
+    {
+      "start": 1583133794,
+      "end_exclusive": 1591522402,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 14.087511731999257,
+      "sha256": "5ff4ff58a3b49a4a85cf0d7bc61dddcfd2016e972dc1bc42f9534da3856dcb43"
+    },
+    {
+      "start": 1591522402,
+      "end_exclusive": 1599911010,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 16.862703208000312,
+      "sha256": "d8a20831cf2472cffa078178917831546c1a0fab16f7397f1faae4c227f614c2"
+    },
+    {
+      "start": 1599911010,
+      "end_exclusive": 1608299618,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 26.553121528999327,
+      "sha256": "550d9f4d82091f416bde7bc9a31624c6225c1c14db449eb0f9799b7d949627da"
+    },
+    {
+      "start": 1608299618,
+      "end_exclusive": 1616688226,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 41.633957566999015,
+      "sha256": "a1ac282e30273fad73651d3f92523a7d42367944ad27c663f628fcc02171a1ff"
+    },
+    {
+      "start": 1616688226,
+      "end_exclusive": 1625076834,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 17.683511465002084,
+      "sha256": "d1538faf60c381553d7c0fc8416ebca93c0b2f0e79d16e11ef58da115a29d38e"
+    },
+    {
+      "start": 1625076834,
+      "end_exclusive": 1633465442,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 36.40720940200117,
+      "sha256": "d0a383bf13ed1d59707996c27dbf4f1014373ffb9dc711ea165a7cfdf71edd0b"
+    },
+    {
+      "start": 1633465442,
+      "end_exclusive": 1641854050,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 47.08268196999779,
+      "sha256": "490594b4e149bc99cfcee1adbf641ed5b4557e29c811dd1511d7d9bdc46f70f0"
+    },
+    {
+      "start": 1641854050,
+      "end_exclusive": 1650242658,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 29.30285439400177,
+      "sha256": "c095f49bff6c09d7a394eec93dff2048206ceef8906e746c5771f53aede75a11"
+    },
+    {
+      "start": 1650242658,
+      "end_exclusive": 1658631266,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 60.47156558500137,
+      "sha256": "78b2d53410bd2ab4bc8ff51d1a59d89cc6104c03317356e47b0e82bbcab69e70"
+    },
+    {
+      "start": 1658631266,
+      "end_exclusive": 1667019874,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 25.98488533499767,
+      "sha256": "6d27c00257f2bc24d430beb1e89c7fdf78e34758a0e2e4a117058e5d92e3d093"
+    },
+    {
+      "start": 1667019874,
+      "end_exclusive": 1675408482,
+      "status": 206,
+      "bytes": 8388608,
+      "seconds": 48.4353286939986,
+      "sha256": "49917914b15c3e6ad55793272f26b426e84009344676b9d55dc2d9b396e13c63"
+    }
+  ],
+  "metadata": {
+    "recording": {
+      "Dataset_Day": "Day11",
+      "File_Name": "ISM-INdoor_433.92e6MHz.iq",
+      "Filename_Note": null,
+      "Recording_Date": "2026-06-22",
+      "Estimated_Start_Time": "10:50:44",
+      "File_Modified_Time": "10:55",
+      "Duration_seconds": 255.16999462890624,
+      "Duration_minutes": 4.252833243815104,
+      "Session": "Morning",
+      "City": null,
+      "Country": null,
+      "Location_Context": null,
+      "Environment": "Indoor",
+      "Elevation_Context": "Not specified",
+      "Antenna_Description": "Telescopic antenna",
+      "Antenna_Placement": null,
+      "Center_Frequency_MHz": 433.92,
+      "Band": "ISM 433",
+      "Sample_Rate_Hz": 2048000,
+      "RF_Gain_dB": 40,
+      "IF_Gain_dB": 30,
+      "BB_Gain_dB": 20,
+      "Gain_Mode": null,
+      "Frequency_Correction_ppm": null,
+      "DC_Offset_Mode": null,
+      "IQ_Balance_Mode": null,
+      "Receiver": "RTL-SDR V3",
+      "Acquisition_Software": "GNU Radio with Osmocom Source",
+      "Recording_Format": "Complex Float32 IQ (complex64)",
+      "Timing_Source": "Preserved archive Date Modified shown in screenshot",
+      "Timing_Precision": "Minute",
+      "Timing_Status": "Estimated from preserved timestamp",
+      "Start_Time_Method": "File_Modified_DateTime minus IQ recording duration",
+      "Calibration_Notes": "No external RF calibration instrument or calibrated reference signal was used during the measurement campaign.",
+      "Post_Acquisition_QC": "Post-acquisition QC performed",
+      "Notes": null,
+      "Metadata_Source_File": "Day11_Master_Metadata_FINAL.csv"
+    },
+    "archive": {
+      "record": 23027285,
+      "archive": "Day11-3.zip",
+      "bytes": 3223265271,
+      "official_checksum": "md5:645982237e5336110c0c98cb29dc7151",
+      "url": "https://zenodo.org/api/records/23027285/files/Day11-3.zip/content",
+      "license": "cc-by-4.0"
+    },
+    "member": {
+      "name": "Day11-3/ISM-INdoor_433.92e6MHz.iq",
+      "raw_bytes": 4180705192,
+      "compressed_bytes": 801558614,
+      "compression": 8,
+      "crc32": 691317457,
+      "header_offset": 1557967970
+    },
+    "prefix_seconds": 36.0,
+    "selection": "Fixed center frequency and requested days from official metadata; no test power/rank inspected"
+  }
+}
